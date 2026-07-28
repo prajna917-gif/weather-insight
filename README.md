@@ -3,7 +3,7 @@
 A professional, real-time weather dashboard combining live weather data, 5-day forecasting, next-day rain prediction (machine learning), multi-city comparison, and weather-related news — built with Python and Streamlit.
 
 ## Live Demo
-[Add your deployed Streamlit link here once deployed]
+https://weather-insight-6fsyfcnppzj8qiucf5dcrf.streamlit.app
 
 ## Features
 - **Live weather lookup** — current temperature, humidity, wind, "feels like," sunrise/sunset for any city worldwide (OpenWeatherMap API)
